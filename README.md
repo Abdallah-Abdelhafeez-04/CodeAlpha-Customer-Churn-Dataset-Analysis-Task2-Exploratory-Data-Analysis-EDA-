@@ -28,18 +28,11 @@ Visualization: Charts are generated to visualize key findings, making them easy 
 
 
 # How to Use :
+Clone the repository
 Go to Google Colab
-Step 1: Open a New Notebook
-
-
-
+Open the Jupyter notebook: jupyter notebook "CodeAlpha Second Task.ipynb"
+Run all cells to execute the complete workflow
 The code will run, and any output (like the chart and print statements) will appear directly below the cell.
-
-Step 5: Access Your Chart
-
-Once the code has finished running, go back to the file browser on the left-hand side.
-
-You will see your generated chart image (e.g., churn_by_service_calls.png) in the list of files. You can right-click it to download it to your computer.
 
 
 # Technologies Used
